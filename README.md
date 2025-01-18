@@ -1,1 +1,1 @@
-The dataset samples that are uploaded here in this repository are all open-source and freely available datasets. The goal of this repository is to make these example datasets available to everyone who might make use of these datasets to write their article or make their work reproducible.
+The dataset samples uploaded to this repository are all open-source and freely available. The goal of this repository is to provide these example datasets to anyone who can use them for writing articles or ensuring the reproducibility of their work.
